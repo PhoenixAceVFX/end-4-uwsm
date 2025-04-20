@@ -1,6 +1,6 @@
 <div align="center">
     <h1>【 end_4's Hyprland dotfiles 】</h1>
-    <h3>UWSM Mod from when I used to use these</h3>
+    <h3>UWSM Mod Because I made my own based on this</h3>
 </div>
 
 <div align="center"> 
